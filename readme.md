@@ -1,19 +1,21 @@
-# Audic [![Travis CI Build Status](https://img.shields.io/travis/com/Richienb/audic/master.svg?style=for-the-badge)](https://travis-ci.com/Richienb/audic)
+## This is a fork of [Audic](https://github.com/Richienb/audic) which adds the 'ended' event and an async setSrc method
+
+# Audic-fork
 
 Play some audio.
 
-[![NPM Badge](https://nodei.co/npm/audic.png)](https://npmjs.com/package/audic)
+[![NPM Badge](https://nodei.co/npm/audic-fork.png)](https://npmjs.com/package/audic-fork)
 
 ## Install
 
 ```sh
-npm install audic
+npm install audic-fork
 ```
 
 ## Usage
 
 ```js
-const Audic = require("audic")
+const Audic = require("audic-fork")
 
 new Audic("audio.mp3").play()
 ```
