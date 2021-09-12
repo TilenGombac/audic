@@ -1,8 +1,8 @@
 {
-	"name": "audic",
-	"version": "0.0.0",
+	"name": "audic-fork",
+	"version": "0.1.0",
 	"description": "Play some audio.",
-	"repository": "https://github.com/Richienb/audic.git",
+	"repository": "https://github.com/TilenGombac/audic.git",
 	"author": "Richie Bendall <richiebendall@gmail.com>",
 	"license": "MIT",
 	"main": "dist/index.js",
